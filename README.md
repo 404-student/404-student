@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**404-student/404-student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 404-student in the House 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Undergraduate Student at Peking University
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&center=true&vCenter=true&width=550&lines=Multimodal+Understanding;Long+Video+Memory;Learning+to+Build+Intelligent+Systems)](https://github.com/DenverCoder1/readme-typing-svg)
+
+[Personal Website](https://404-student.github.io) ·
+[Email](mailto:student-404@outlook.com)
+
+</div>
+
+## 👨‍💻 About Me
+
+I'm an undergraduate student majoring in Artificial Intelligent from the School of Electronic Engineering and Computer Science at Peking University.
+
+My research interests include:
+- Multimodal Understanding
+- Long Video Understanding & Memory
+- Audio-Visual Reasoning
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+
+## 📫 Connect
+
+Feel free to reach out for research discussions
+and collaboration!
