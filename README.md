@@ -23,7 +23,7 @@ My research interests include:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=404-student&show_icons=true&theme=transparent)
 
 ## 📫 Connect
 
